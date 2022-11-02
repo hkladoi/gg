@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEdLb9oADRtz9zXkLfj8cAYys4CQD5SH3N9q5rFyNBEcG574knmQ3CqLxaW0uw5FHbB7ekspJU273tb3yNtRlQ==",
+  "dgSpecHash": "YWmIZTMt4AOJexniehOJYVN4IroPHan/9t2zKIzdo1K3mG+/z4o6NO11vrHJUqA9sOCZhX1fFHeJDSPNwJCu0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anhtr\\OneDrive - 31123\\Documents\\DuAnMau\\PTPM\\2.BUS\\2.BUS.csproj",
+  "projectFilePath": "C:\\Users\\anhtr\\OneDrive\\Desktop\\gg\\2.BUS\\2.BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anhtr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\anhtr\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
